@@ -1,0 +1,15 @@
+C:\Users\Archana\csharpExperiments\Exp03-Constructor\bin\Debug\net6.0\Exp03-Constructor.exe
+C:\Users\Archana\csharpExperiments\Exp03-Constructor\bin\Debug\net6.0\Exp03-Constructor.deps.json
+C:\Users\Archana\csharpExperiments\Exp03-Constructor\bin\Debug\net6.0\Exp03-Constructor.runtimeconfig.json
+C:\Users\Archana\csharpExperiments\Exp03-Constructor\bin\Debug\net6.0\Exp03-Constructor.dll
+C:\Users\Archana\csharpExperiments\Exp03-Constructor\bin\Debug\net6.0\Exp03-Constructor.pdb
+C:\Users\Archana\csharpExperiments\Exp03-Constructor\obj\Debug\net6.0\Exp03-Constructor.csproj.AssemblyReference.cache
+C:\Users\Archana\csharpExperiments\Exp03-Constructor\obj\Debug\net6.0\Exp03-Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Archana\csharpExperiments\Exp03-Constructor\obj\Debug\net6.0\Exp03-Constructor.AssemblyInfoInputs.cache
+C:\Users\Archana\csharpExperiments\Exp03-Constructor\obj\Debug\net6.0\Exp03-Constructor.AssemblyInfo.cs
+C:\Users\Archana\csharpExperiments\Exp03-Constructor\obj\Debug\net6.0\Exp03-Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Archana\csharpExperiments\Exp03-Constructor\obj\Debug\net6.0\Exp03-Constructor.dll
+C:\Users\Archana\csharpExperiments\Exp03-Constructor\obj\Debug\net6.0\refint\Exp03-Constructor.dll
+C:\Users\Archana\csharpExperiments\Exp03-Constructor\obj\Debug\net6.0\Exp03-Constructor.pdb
+C:\Users\Archana\csharpExperiments\Exp03-Constructor\obj\Debug\net6.0\Exp03-Constructor.genruntimeconfig.cache
+C:\Users\Archana\csharpExperiments\Exp03-Constructor\obj\Debug\net6.0\ref\Exp03-Constructor.dll
