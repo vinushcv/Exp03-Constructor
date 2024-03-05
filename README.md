@@ -27,6 +27,8 @@ Define the display() function to print the output
 
 
 ## Program:
+Developed by: Vinush.cv
+Reg No: 212222230176
 ```c#
 using System;
 
